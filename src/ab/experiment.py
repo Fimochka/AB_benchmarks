@@ -1,5 +1,5 @@
-from src_ABTesting.ab.data import BernoulliDataGenerator
-from src_ABTesting.ab.design import ClassicABDesign, SequentialABDesign, BayesianABDesign
+from src.ab.data import BernoulliDataGenerator
+from src.ab.design import ClassicABDesign, SequentialABDesign, BayesianABDesign
 
 
 class SingleExperiment(object):

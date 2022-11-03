@@ -10,7 +10,7 @@ from scipy.stats import beta
 import matplotlib.pyplot as plt
 import warnings
 
-from src_ABTesting.ab.helpers import min_sample_size_ctr, calculate_N_d
+from src.ab.helpers import min_sample_size_ctr, calculate_N_d
 
 
 class ClassicABDesign(object):

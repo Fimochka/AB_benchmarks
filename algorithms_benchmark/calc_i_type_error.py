@@ -1,9 +1,9 @@
 import numpy as np
 import pandas as pd
 
-from src_ABTesting.ab.design import ClassicABDesign, SequentialABDesign, BayesianABDesign
-from src_ABTesting.ab.experiment import SingleExperiment, ExperimentSeries
-from src_ABTesting.ab.data import BernoulliDataGenerator
+from src.ab.design import ClassicABDesign, SequentialABDesign, BayesianABDesign
+from src.ab.experiment import SingleExperiment, ExperimentSeries
+from src.ab.data import BernoulliDataGenerator
 
 from config import alpha, beta, power, GLOBAL_SIZE_TH, base_ctr, \
                    mde, update_size, N_experiments, n_groups, \
