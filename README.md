@@ -28,3 +28,10 @@
 
 [Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research2_stattests_benchmark#readme)
 
+## Research #3 - variance_reduction_methods_compare
+
+### Цель исследования:
+
+оценить влияние методов снижения дисперсии на ошибки для разных метрик (CTR/Global CTR/Average)
+
+[Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research3_variance_reduction_methods_benchmark#readme)
