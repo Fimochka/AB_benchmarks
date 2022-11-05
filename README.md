@@ -18,10 +18,13 @@
 
 серия экспериментов-симуляций на синтетических данных
 
-[details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research1_algorithms_benchmark#readme)
+[Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research1_algorithms_benchmark#readme)
 
 ## Research #2 - stattests_benchmark (in progress)
 
-Идея для исследования: сравнение статистических критериев для оценки разницы средних на синтетических данных
+### Цель исследования: 
 
+сравнить статистических критериев для оценки разницы средних на синтетических данных
+
+[Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research2_stattests_benchmark#readme)
 
