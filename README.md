@@ -18,9 +18,7 @@
 
 серия экспериментов-симуляций на синтетических данных
 
-Details - 
-
-[details] (Research1_algorithms_benchmark/README.md)
+[details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research1_algorithms_benchmark#readme)
 
 ## Research #2 - stattests_benchmark (in progress)
 
