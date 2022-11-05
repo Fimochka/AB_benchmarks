@@ -39,7 +39,7 @@
 * по оси абсцисс (X) - значение базовой конверсии (BASE_CTR)
 * по оси ординат (Y) - значение ошибки первого рода (I_TYPE_ERROR)
 
-![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/algorithms_benchmark/reports/I_type_errors.png?raw=true)
+![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/Research1_algorithms_benchmark/reports/I_type_errors.png?raw=true)
 Здесь:
 * bayesian_toc_0.01 - байесовский подход с пороговым значением toc==0.01
 * bayesian_toc_0.005 - байесовский подход с пороговым значением toc==0.01
@@ -54,7 +54,7 @@
 
 ### Трафик 
 
-![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/algorithms_benchmark/reports/traffic.png?raw=true)
+![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/Research1_algorithms_benchmark/reports/traffic.png?raw=true)
 
 * по оси абсцисс (X) - значение базовой конверсии (BASE_CTR)
 * по оси ординат (Y) - суммарный траффик всех экспериментов
@@ -65,11 +65,11 @@
 Таким образом, у одной группы базовая конверсия равна значению BASE_CTR, а у другой - BASE_CTR(1+diff)
 Сравнение ошибок второго рода
 
-![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/algorithms_benchmark/reports/II_type_error.png?raw=true)
+![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/Research1_algorithms_benchmark/reports/II_type_error.png?raw=true)
 
 Суммарного траффика:
 
-![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/algorithms_benchmark/reports/traffic_2_sc.png?raw=true)
+![alt text](https://github.com/Fimochka/AB_benchmarks/blob/main/Research1_algorithms_benchmark/reports/traffic_2_sc.png?raw=true)
 
 ### Полученные выводы:
 
