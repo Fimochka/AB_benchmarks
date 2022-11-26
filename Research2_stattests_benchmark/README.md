@@ -21,5 +21,4 @@
 ### Кандидаты:
 - Student’s t-test
 - Mann-Whitney U Test
-- Kruskal-Wallis H Test
 - Wilcoxon Signed-Rank Test
