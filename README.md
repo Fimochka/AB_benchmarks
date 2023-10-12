@@ -35,3 +35,19 @@
 оценить влияние методов снижения дисперсии на ошибки для разных метрик (CTR/Global CTR/Average)
 
 [Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research3_variance_reduction_methods_benchmark#readme)
+
+## Research #4 - SD correction
+
+### Цель исследования:
+
+оценить влияние на смещенность корректировки для оценки выборочной дисперсии
+
+[Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research4_SD_correction#readme)
+
+## Research #6 - Multiple metrics research
+
+### Цель исследования:
+
+Проверить на синтетических данных идею ребят из Озона (https://habr.com/ru/companies/ozontech/articles/712306/) - пункт 6 про то как можно контролировать ошибку первого рода для множества метрик, не применяя поправку на множественное сравнение (не меняя alpha)
+
+[Details](https://github.com/Fimochka/AB_benchmarks/tree/main/Research6_multiple_variants#readme)
